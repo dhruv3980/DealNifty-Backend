@@ -39,8 +39,7 @@
 
 ---
 
-**Live Frontend Integration:** Works seamlessly with the [DealNifty Frontend](https://dealnifty.netlify.app)
-
+**Live Frontend Integration:** Works seamlessly with the [DealNifty Frontend](https://deal-nifty-frontend.vercel.app/)
 ---
 
 
