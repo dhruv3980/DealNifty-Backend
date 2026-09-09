@@ -43,7 +43,8 @@ process.on("unhandledRejection", (err) => {
 const corsOptions = {
    origin: [
     "https://deal-nifty-frontend.vercel.app",
-    "http://localhost:5173"
+    "http://localhost:5173",
+     "*"
   ], // no "*"
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
